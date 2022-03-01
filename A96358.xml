@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The charitable farmer of Somersetshire: or, God's great and vvonderful vvork. Being a true relation of an honest, godly man, that lived at Welling, within three mile of the city of Wells, which sold his wheat to poor people at six shillings a bushel, when the market price was ten and eleven shillings, for which he was much derided and scoft at, by his rich neighbours: but was recompenced by an extraordinary crap [sic] of wheat, like never before heard of, each stolk of straw, having divers full large ears, some seven, some eight, nine, and ten, so to thirteen, but generally ten ears on every straw throughout the field, which was ten acres and upwards, of which, divers ears are to be seen at divers coffee-houses in the city of London. Likewise a pattern of all covetous greedy-minded men, to be charitable unto their poor neighbours, from the consideration of so remarkable an example. / By Law. White.</title>
+            <author>White, Law.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96358</idno>
+            <idno type="STC">Wing W1796</idno>
+            <idno type="STC">ESTC R186500</idno>
+            <idno type="EEBO-CITATION">45578504</idno>
+            <idno type="OCLC">ocm 45578504</idno>
+            <idno type="VID">172418</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96358)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172418)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2628:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The charitable farmer of Somersetshire: or, God's great and vvonderful vvork. Being a true relation of an honest, godly man, that lived at Welling, within three mile of the city of Wells, which sold his wheat to poor people at six shillings a bushel, when the market price was ten and eleven shillings, for which he was much derided and scoft at, by his rich neighbours: but was recompenced by an extraordinary crap [sic] of wheat, like never before heard of, each stolk of straw, having divers full large ears, some seven, some eight, nine, and ten, so to thirteen, but generally ten ears on every straw throughout the field, which was ten acres and upwards, of which, divers ears are to be seen at divers coffee-houses in the city of London. Likewise a pattern of all covetous greedy-minded men, to be charitable unto their poor neighbours, from the consideration of so remarkable an example. / By Law. White.</title>
+                  <author>White, Law.</author>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Title vignette.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charity.</term>
+               <term>Conduct of life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172418:1" rendition="simple:additions"/>
+            <p>The Charitable Farmer of <hi>Somerſetſhire: OR, GOD'S Great and VVonderful VVork<g ref="char:punc">▪</g>
+               </hi>
+            </p>
+            <p>Being a True Relation of an Honeſt, Godly Man, that lived at <hi>Welling,</hi> within three Miles of the City of <hi>Wells,</hi> which ſold his Wheat to poor people at Six Shillings a Buſhel, when the Market price was Ten and Eleven Shillings, for which he was much deri<g ref="char:EOLhyphen"/>ded and ſcoft at, by his Rich Neighbours: but was recompenced by an extraordinary Crap of Wheat, the like never before heard of, each Stolk of Straw, having divers full large Ears, ſome Seven, ſome Eight, Nine, and Ten, ſo to Thirteen, but generally Ten Ears on every Straw throughout the Field, which was Ten Acres and upwards, of which, divers Ears are to be ſeen at divers Coffee-houſes in the City of <hi>London.</hi>
+            </p>
+            <p>Likewiſe a pattern for all Covetous Greedy-minded men, to be Cha<g ref="char:EOLhyphen"/>ritable unto their poor Neighbours, from the conſideration of ſo Remarkable an Example.</p>
+            <p>By <hi>Law. White.</hi>
+            </p>
+            <q>
+               <p>He findeth Seed to the Sower, and Bread for food, and will multiply your Seed, and increaſeth fruits of your Benevolence.</p>
+               <bibl>2 Cor. 9.10.</bibl>
+            </q>
+            <q>
+               <p>He that with-holdeth Corn, the people ſhall curſe, but bleſſing ſhall be upon the head of him that ſelleth it,</p>
+               <bibl>Prov 11.26.</bibl>
+            </q>
+            <figure>
+               <figDesc>four corn plants, an illustration of the foregoing quotations</figDesc>
+            </figure>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172418:2"/>
+            <p>GOOD People, I would deſire you to draw neer, and ſpare ſo much time as the Reading of this little Book will take reading over, to ye. For 'tis ſuch a Subject that the Oldeſt Man or Woman living, never heard the like, nor Chronicles do not make mention of ſuch another Wonder.</p>
+            <p>I think 'tis very well known to any ſober Chriſtian, that the wickedneſs of the times has draw'd Gods judgements on us ſuf<g ref="char:EOLhyphen"/>ficiently of late days, that is, I mean within theſe ten years, when firſt the ſickneſs the Lord poured on us, which made thouſands of rich people fall from all their pride and bravery into a ſhrowd and Coffin, and their carcaſſes that in their life time was ſo pom<g ref="char:EOLhyphen"/>par'd up with the beſt that this ſinful world could afford, yet at laſt in a ſhort time became a pray for worms, but no ſooner the Lord had cauſed the deſtroying Angle to ceaſe, but we like diſ<g ref="char:EOLhyphen"/>obedient children as ſoon as the rod of correction was over, returned to our old ſinful ways, which rais'd the Lords indig<g ref="char:EOLhyphen"/>nation againſt us, and even forſt the Lord to kindle a fire amongſt us, as we found to the ruine of many thouſands of them, whom he preſerved alive in the ſickneſs time, methinks the thoughts of thoſe high &amp; dreadful flames ſhould never be out of your minds, methinks I hear ſtill the great craking of the timber, and the noiſe of people, ſome crying, I am undone, others praying it might not come to their houſe, others crying a hundred pound for a cart to carry but one load of goods away, the ſhrieks and crys of women in child-bed in the fields, poor infants crying with hunger to their Parents.</p>
+            <p>But alas what do I talk of theſe, I ſhall be but laught at by ſome for rehearſing of this judgment, for I believe 'tis no more thought on by ſome as if it had never been, and I fear by too many of them that ſuffered by this calamity.</p>
+            <pb n="2" facs="tcp:172418:2"/>
+            <p> But now behold the mercy of the Lord what a great bleſſing he beſtowed on the builders of this City to raiſe ſo many great and ſtately fabricks out of a heap of rubbiſh to the wonderment of the whole world, for which his holy name be praiſed for ever, e<g ref="char:EOLhyphen"/>ver, Amen.</p>
+            <p>But neither mercies nor Judgements of God will work upon ſome peoples conſciences, 'tis but the other day ſince the Warrs killed ſo many of our brave Sea-men, both Knights, Squires, and Gentlemen, and many others, whoſe lives were as ſweet to them as the reſt.</p>
+            <p>Which hath left a many poor Widdows and fatherleſs Chil<g ref="char:EOLhyphen"/>dren behind, that now ſtands in great need of their Husbands, and Children their fathers, that is fain to pinch and go with many hungry belly over they did before the wars came.</p>
+            <p>But now for me to come to my intended matter, which is a thing ſo ſtrange that will cauſe a wonderment from all thoſe that knows what belongs to the ſubject which I am ready to declare, if you will have the patience to ſtay but a ſhort time till I rehearſe it over, I hope you will not think much of your time, nor your pen<g ref="char:EOLhyphen"/>ny neither if you buy the book, I believe 'tis very well known to all by ſad experience I fear too many of the poorer ſort that moſt kinds of proviſion have of late been deer, and more particularly bred, which is the ſtaff of life. Wheat being ſold in ſeveral pla<g ref="char:EOLhyphen"/>ces of England, for ten and eleven ſhillings a buſhel or ſtrike, in which ſcarcity many poor people ſuffered through the wretched covetouſneſs of ſome rich Farmers, who kept up their Corn on purpoſe to make a Dearth, and would not bring it to market till they had got it to ſuch a rate that the poor could not reach, as if it had been their Delight to ſtarve the poor, it riſing from ten to eleven, and ſo to twelve and upwards, all the laſt ſpring in many places in this Kingdom, which cauſed many riſings by the poorer ſort of people in ſeveral Markets to cut the Bagars ſacks in pieces that is, thoſe men that buys Corn in cheap Markets, and carries it
+<pb n="3" facs="tcp:172418:3"/>to other places, &amp; there makes their prizes on it and ſo hoyſts up the market in both places, where they buy it and ſell it: I ſee one Wedneſday in VVoolverhampton market this ſpring above an hundred of men, old and young in arms, and cut thoſe Bagers ſacks, and took their corn, and filled their pockets with it, and ſaid their wives and children was ready to ſtarve. And at Oſter in VVoſterſhire was another riſing by the poor againſt the rich Far<g ref="char:EOLhyphen"/>mers for hoarding up their Corn, and at Waſtle was the ſame, at Sturbridge, and Bromſgrove, and many other Markets in and a<g ref="char:EOLhyphen"/>bout <hi>England,</hi> which are too many to ſet down here. For ſhall I tell you, the poor ſuffered ſo much Hunger, that they were fain to make Bread for their poor Children with Peaſe and Beans, and were expoſed to much want and hardſhip, &amp; yet poor ſouls after it was bakt it went down with poor little Babes as ſweet as Honey, when they were fain to take a Hatchet and Chop it to pieces: and truely they might have eaten Stones, if it had been poſsible, before they could have found any love or charity from theſe greedy covetous men, that ſold their Corn at ſuch a deer rate, as one above all the reſt, that brought his Corn to ſell in <hi>VVolverhampton</hi> Market, in the County of <hi>Stafford,</hi> having ſold his Wheat three or four Market-days together for Nine or Ten Shillings a Strike: when the fifth day he had brought a great<g ref="char:EOLhyphen"/>quantity of Corn to ſell, expecting it would have riſen ſtill, but it did not fall out according to his deſire, but fell ſix pence in a ſtrike, to the great content of the poor, which did ſo heart-burn this Greedy, covetous Miſer, that he would not ſell one peck of his Corn that day, but cauſed it all to be ſet up, &amp; ſaid, <hi>Let whoſe will ſell, for he would not, for if he kept it but two or three years longer, he hopt to ſell it as dear as Mercers do their Pepper, which is after the Rate of ſixteen-pence the pound:</hi> This was told me by one that heard the words ſpoke. And truely I fear their be too many ſuch greedy covetous hounds as he, that had rather ſee the poor ſtarve, then relieve them with one Quart of Corn, or thinnk
+<pb n="4" facs="tcp:172418:3"/>it better to keep a pack of dogs then maintain a fatherleſs child or two, but though there be ſo many ſuch baſe men as they, yet God hath planted his grace in ſome mens hearts, and awaken their conſciences in theſe Deer and bad times that poor People now goes through, as one I ſhall inſtance unto you, which is this.</p>
+            <p>An honeſt godly Farmer living at a ſmall Village called Wel<g ref="char:EOLhyphen"/>ling, within three miles of the City of VVells, in the county of Somerſet, whoſe name I am oblieged to conceal, having no leave from him to publiſh it, he taking into conſideration the deplora<g ref="char:EOLhyphen"/>ble condition of many poor familles round about him, that was almoſt ready to ſtarve, he reſolved to afford them all the pitty &amp; charity he could to relieve their want and miſery, and alſo to contribute what he could ſpare to their relief; And to that pur<g ref="char:EOLhyphen"/>poſe having a conſiderable ſtore of wheat by him, he freely ſold it to all ſuch as he knew to be poor people after the rate of ſix ſhillings a buſhel, although it were generally ſeld by all others in the Markets thereabouts at ten and eleven ſhillings at leaſt, and thus he continued ſelling moſt part of the winter in the year of our Lord, 1673; And the Spring following in the year, 1674. As long as he had any wheat left that he could ſpare from his own neceſſary uſe, and by this Chriſtian compaſſionate Dealing 'tis verily believed he was under God a means to preſerve above an hundred families.</p>
+            <p>This good <hi>Samaritan,</hi> though he had a competent eſtate to live contented and comfortable with, yet he was no great Rich man, which occaſioned ſeveral of his rich Neighbours to look upon themſelves far beyond him in point of eſtate, and thus forth they began to envy and deride him, as acting very fooliſhly, in not making the moſt of his own, as they vainly called it, forgeting that whatſoever we enjoy, 'tis but lent us by the Lord, who ex<g ref="char:EOLhyphen"/>pects it to be improved to his ſervice, and the good of our fellow creatures: One of theſe churliſh-<hi>Nabals,</hi> as 'tis ſaid, one day tel<g ref="char:EOLhyphen"/>ing him that if he parted with his Corn ſo ſillily, he would ſhort<g ref="char:EOLhyphen"/>ly
+<pb n="5" facs="tcp:172418:4"/>come to want Bread himſelf: To all which this good man meekly anſwered, that he thought it his duty to relieve people in diſtreſs, to his ability: that he reckoned that he might afford it at that rate he ſold it for, and verily believed he ſhould never be the poorer for nor exacting thoſe unreaſonable prizes which others took for that God was able to make up to him ſome other way, and that he would caſt himſelf wholly on the Lords good Provi<g ref="char:EOLhyphen"/>dence.</p>
+            <p>And now Chriſtian Hearers, prepare your attentions to ob<g ref="char:EOLhyphen"/>ſerve Gods wonderful making good that promiſe in his Holy Word.</p>
+            <p>That he will never deceive them that truſt in him, for by a ſtrange means he hath been pleaſed to return to this Charitable Farmer ten fold, in a marvellous Crop of Wheat, ſuch as never was in any age before, for having ſown a piece of ground with Wheat, containing above Ten Acres, though the foil were but mean, and not any way conſiderable repared by amendment, yet the blades came up very thick, and promiſing a good crap, but what was more infinitely wonderful, when it came to Ear, there came forth ſeveral and diſtinct Ears upon one ſtraw, ſome having ſeaven, ſome eight, ſome nine, and ſo to thirteen upon ſome, ſo that throughout all that Ten Acres of Corn, every ſtalk one with another may be juſtly reckoned to Produce Ten Ears a Piece, the Wheat is of that kind which they call bearded, and has many briſtles growing up with the Ears, the ſtraws are ſomewhat bigger then Ordinary, yet not much, and 'tis very wonderful to think how they ſhould be able to ſupport ſuch a weight, for the Ears are generally large and full of excellent Wheat, ſo that it is reaſonably computed by the moſt modeſt Gueſſers, that there is as much VVheat produced upon theſe Ten Acres, as ever there vvas before upon Ten times the ſame quantity of ground, for that it yeilds in Threſhing anſvverable to the bulk and grovvth of it. This Rela<g ref="char:EOLhyphen"/>tion
+<pb n="6" facs="tcp:172418:4"/>is a truth known and admired throughout moſt of the weſt of England, and to ſeveral perſons in this City of London, who has brought up divers lately from thoſe parts, and are to be ſeen in divers Coffee-houſes about the City: ſome ſcoffing Athieſt may by chance render it to be a lye, and will not believe it to be a thing of truth, for ſome be more like Jews then Chriſtians, and will not believe any thing but what their own eyes do ſee, but I hope the more ſober finding it an undoubted reality of which they can<g ref="char:EOLhyphen"/>not but be ſatisfied, upon a ſmall inquiry will regard it with more conſideration, and give glory to God, who by ſo remarkable an inſtance hath been pleaſed to declare his providence and make known, not only that he is, as to his exiſtence, that he is a reward<g ref="char:EOLhyphen"/>er ſometimes even in this life of all thoſe that truſt in him and obey his commandments, and may this preſident awaken all to a<g ref="char:EOLhyphen"/>bandon their cruelty &amp; uncharitableneſs, &amp; learn to do good with what the Lord hath beſtowed and given unto them in temperate bleſſings, for where the Lord gives much, much he expects of them again, to the uſe of the poor, as you may ſee in <hi>Bro.</hi> 19, 17. <hi>He that hath pitty on the poor lendeth unto the Lord, and that which he hath given will he pay him again.</hi> But men are grown to that paſs they will not believe God, but rather truſt to their own wicked and ſinful luſts, and ſpend pounds on their baſe corrupt wills, in feaſting and junketing, to fill their ſtinking bodies full of diſeaſes, with exceſsive eating and drinking, whilſt many would be glad of the leaſt of that to refreſh them vvith, as many gluts, and gives up again, and whilſt they be thus merry, with Warm Lodging, Good Fires, fine Apparel, and as is ſaid, has the world in a Sling, and makes ſo much of themſelves, theſe I ſay will hardly give a Meals Meat to a hungry belly, or an old Coat to Chiver the Na<g ref="char:EOLhyphen"/>kedneſs of a poor fatherleſs Child, or a peck of coals to a diſtreſſed widdow to undreſs her poor babes by: No, no, I ſay, theſe love ſo much of pleaſure, they can't indure the poor at their Doors, but like <hi>Dives,</hi> ſet their Dogs to drive them away. There is, I fear,
+<pb n="7" facs="tcp:172418:5"/>too many that be like unto that greedy young man in the Goſpel, that came to our Bleſſed Saviour to know how he might be ſa<g ref="char:EOLhyphen"/>ved, and when he had heard that he muſt give all to the poor, he went away with a ſorrowful heart, for he had great Poſſeſsions, as you may read more at large, in <hi>Mat.</hi> 9.21. Men are grown ſo greedy of gain, that they will with a willing mind deceive the poor laborors of their wages: gripe them of that which is their due, &amp; think they never work cheap enough to inrich their co<g ref="char:EOLhyphen"/>vetous deſires, for they lie hoarding up their money, &amp; make it their god, for where their riches lyes there their heart is alſo, but know, oh man, that the Lord will bring you to a reckoning at laſt, then you will curſe the day that ever you was born, &amp; wiſh you had never known what riches was, without thou hadſt made better uſe of it, as the Lord had commanded thee. The Prophet <hi>Jerimiah</hi> complaineth of this ſin greatly, as you may ſee in <hi>Jer.</hi> 6.13. For from the leaſt of them even unto the greateſt of them, every one is given unto covetouſneſs, &amp; from the prophet even unto the Prieſt, every one dealeth falſely, many more places in Scripture could I give to this purpoſe, as in Hebrews 13.5. Luke 12.15. Epheſ. 5.3. and in Prov. 21.26. He coveteth gree<g ref="char:EOLhyphen"/>dily all the day long, but the righteous giveth and ſpareth not: all along the Scripture, you ſhall not find one word of comfort for a covetous man, but to the charitable perſon there is a many good proofs; as you may find, Pro. 11.25. <hi>The liberal ſoul ſhall be made fat, and he that watereth ſhall be watered alſo himſelf.</hi> Thus you may ſee how he that is bountiful to the poor God will never let want, neither in this world nor that to come, ſome thinks if they give but a ſhilling or two in 7 year tis enough, but if they ſpend 10 or 20 ſhillings in 2 or 3 hours idly, that is not thought too much, I wiſh that men would be wiſer, &amp; lay up for their own ſalvation, which charity is the bond of perfectneſs, Coloſ. 3.14.</p>
+            <p>Thus to conclude, I deſire all good Chriſtians to be charitable to their poor brethren, and God will reſtore again to them tenfold.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:172418:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
